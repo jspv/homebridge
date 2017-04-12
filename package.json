@@ -26,7 +26,7 @@
   "dependencies": {
     "chalk": "^1.1.1",
     "commander": "2.8.1",
-    "hap-nodejs": "https://github.com/jspv/HAP-NodeJS",
+    "hap-nodejs": "https://github.com/jspv/HAP-NodeJS#occupancyfix",
     "homebridge-sqs": "https://github.com/jspv/homebridge-sqs",
     "node-persist": "^0.0.8",
     "semver": "5.0.3"
